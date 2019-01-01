@@ -23,6 +23,7 @@ class App extends React.Component {
 
   renderContent() {
     if (this.state.errorMessage && !this.state.lat) {
+      console.log(this.state);
       return <div>Error: {this.state.errorMessage}</div>;
     }
     if (!this.state.errorMessage && this.state.lat) {
