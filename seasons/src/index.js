@@ -7,7 +7,7 @@ class App extends React.Component {
   //   constructor(props) {
   //     super(props); // has to be put every time
 
-  //     // THIS IS THE ONLY TIME wew do direct assignment
+  //     // THIS IS THE ONLY TIME we do direct assignment
   //     // to this.state.
   //     this.state = { lat: null, errorMessage: "" };
   //   }
