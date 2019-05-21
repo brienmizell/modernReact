@@ -17,7 +17,6 @@ class PostList extends React.Component {
               <h2>{post.title}</h2>
               <p>{post.body}</p>
             </div>
-            <p>{post.user}</p>
           </div>
         </div>
       );
