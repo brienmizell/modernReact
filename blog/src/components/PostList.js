@@ -8,7 +8,6 @@ class PostList extends React.Component {
   }
 
   renderList() {
-    console.log(this.props);
     return this.props.posts.map(post => {
       return (
         <div className="item" key={post.id}>
