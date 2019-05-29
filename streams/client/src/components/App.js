@@ -5,10 +5,7 @@ const App = () => {
   return (
     <div>
       <BrowserRouter>
-        <div>
-          <Route path="/" exact component={PageOne} />
-          <Route path="/pagetwo" exact component={PageTwo} />
-        </div>
+        <div />
       </BrowserRouter>
     </div>
   );
