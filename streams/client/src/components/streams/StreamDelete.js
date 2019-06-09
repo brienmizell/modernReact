@@ -3,10 +3,10 @@ import React from "react";
 
 const StreamDelete = () => {
   const actions = (
-    <div>
+    <React.Fragment>
       <div className="ui button negative">Delete</div>
       <button className="ui button">Cancel</button>
-    </div>
+    </React.Fragment>
   );
 
   return (
