@@ -1,3 +1,2 @@
 # modernReact
-repo for exercises and projects from the udemy course "Master React and Redux"
-more info to be aded soon.
+repo for react projects I have been working on since finishing my bootcamp.
